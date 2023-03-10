@@ -1,0 +1,64 @@
+/* Write some CSS below */
+.card-white {
+background-color: rgb(230, 216, 216);
+box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+border-radius: 5px;
+padding: 30px;
+margin: 15px 0;
+text-align: center;
+}
+
+h1 {
+    color: #702e80;
+    font: 40px 'Tilt Neon', sans-serif;
+    margin: 21px 0px ;
+    text-align: center;
+    font-weight: bolder;
+}
+
+p {
+    color:black;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 200px;
+    margin: 17px 0px 40px;
+    text-align: center;
+   font-size: larger;
+}
+
+.btn-blue {
+    color: #FFFFFF;
+    background-color: purple;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Tilt Neon', sans-serif;
+    border-radius: 4px;
+   
+}
+
+.btn-blue:hover {
+background-color: black;
+}
+
+h2 {
+    color: rgb(66, 18, 49);
+    font-size: 30px;
+    font-family: 'Tilt Neon', sans-serif;
+    margin: 10px 0px;
+    text-align: center;
+    font-weight: 500;
+    padding: 20px 10px;
+
+}
+.img-circle {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.container {
+    margin: 70px auto;
+    width: 800px;
+}
